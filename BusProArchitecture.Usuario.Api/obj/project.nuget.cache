@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9sASB2Y/rA=",
+  "dgSpecHash": "RIBI/osxB4k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
+  "projectFilePath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

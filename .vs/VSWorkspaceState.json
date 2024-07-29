@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\BusProArchitecture.Reserva.Application",
+    "\\BusProArchitecture.Reserva.Application\\Services",
     "\\BusProArchitecture.Reserva.Persistence"
   ],
   "SelectedNode": "\\BusProArchitecture.sln",

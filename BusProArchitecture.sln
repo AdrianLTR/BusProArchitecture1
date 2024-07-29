@@ -53,7 +53,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusProArchitecture.Reserva.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusProArchitecture.Usuario.Persistence", "BusProArchitecture.Usuario.Persistence\BusProArchitecture.Usuario.Persistence.csproj", "{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusProArchitecture.Infrastructure", "BusProArchitecture.Infrastructure\BusProArchitecture.Infrastructure.csproj", "{45423399-06E4-445C-924C-9F0869D482F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusProArchitecture.Infrastructure", "BusProArchitecture.Infrastructure\BusProArchitecture.Infrastructure.csproj", "{45423399-06E4-445C-924C-9F0869D482F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IOC", "IOC", "{7F35ECF7-51FE-4B6A-9732-0E98C754D138}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IOC", "IOC", "{4F8220D2-D81E-4930-9DB2-CB00816407D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusProArchitecture.IOC", "BusProArchitecture.IOC\BusProArchitecture.IOC.csproj", "{720B9928-5755-47C7-94BE-F065EC2C43C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +107,10 @@ Global
 		{45423399-06E4-445C-924C-9F0869D482F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45423399-06E4-445C-924C-9F0869D482F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45423399-06E4-445C-924C-9F0869D482F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720B9928-5755-47C7-94BE-F065EC2C43C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720B9928-5755-47C7-94BE-F065EC2C43C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720B9928-5755-47C7-94BE-F065EC2C43C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720B9928-5755-47C7-94BE-F065EC2C43C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -131,6 +141,9 @@ Global
 		{94CC723A-1B05-4CCE-970E-B65B1ECBD56F} = {89E500C3-7BA7-4C4E-9325-059A5FDCFE39}
 		{040DAA86-9E7A-4A59-8B53-A5B39DDB535F} = {9E4708AE-3E0B-4046-AB84-23F998A43687}
 		{45423399-06E4-445C-924C-9F0869D482F7} = {BEC9E9E5-7320-45A9-8E40-BA6EB2B49C11}
+		{7F35ECF7-51FE-4B6A-9732-0E98C754D138} = {8076E348-FFFB-4B83-BABD-66444D233C49}
+		{4F8220D2-D81E-4930-9DB2-CB00816407D9} = {E65C549A-2DEA-4B95-95B7-695697C5278B}
+		{720B9928-5755-47C7-94BE-F065EC2C43C0} = {7F35ECF7-51FE-4B6A-9732-0E98C754D138}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4AC0BB7D-AABE-4881-ADCB-8F5BCE645BF9}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj",
       "projectName": "BusProArchitecture.Usuario.aplication",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",

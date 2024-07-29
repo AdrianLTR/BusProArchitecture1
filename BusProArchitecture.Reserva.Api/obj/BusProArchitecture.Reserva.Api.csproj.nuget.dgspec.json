@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj": {}
+    "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj": {
+    "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj",
         "projectName": "BusProArchitecture.Reserva.Api",
-        "projectPath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj",
         "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\obj\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2788,11 +2788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
       "projectName": "BusProArchitecture.Usuario.Persistence",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2809,8 +2809,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj"
+            "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj"
             }
           }
         }

@@ -568,7 +568,9 @@
       },
       "BusProArchitecture.Reserva.Domain/1.0.0": {
         "dependencies": {
-          "BusProArchitecture.common.Data": "1.0.0"
+          "BusProArchitecture.common.Data": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
         },
         "runtime": {
           "BusProArchitecture.Reserva.Domain.dll": {}

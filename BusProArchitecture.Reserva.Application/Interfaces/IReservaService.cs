@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BusProArchitecture.Reserva.Application.Base;
+using BoletoBusMaMonolitica.Data.Models;
 namespace BusProArchitecture.Reserva.Application.Interfaces
+
 {
    public interface IReservaService
     {

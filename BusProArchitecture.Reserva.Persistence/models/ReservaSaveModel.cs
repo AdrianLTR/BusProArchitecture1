@@ -13,7 +13,7 @@ namespace BoletoBusMaMonolitica.Data.Models
                 IdReserva = this.IdReserva,
                 IdViaje = this.IdViaje,
                 IdPasajero = this.IdPasajero,
-                AsientosReservados = this.AsientosReservados,
+                AsientosReservados = this.AsientosReservados,   
                 MontoTotal = this.MontoTotal,
                 FechaCreacion = this.FechaCreacion
 

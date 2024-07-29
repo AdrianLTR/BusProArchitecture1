@@ -4,7 +4,10 @@
 using BusProArchitecture.Reserva.Application.Interfaces;
 namespace BusProArchitecture.Reserva.Application.Services
 {
-    public class ReservaService : IReservaService
+    /*
+
+  
+   public class ReservaService : IReservaService
     {
         private readonly IReservaDb reservaDb;
         private readonly ILogger logger;
@@ -112,4 +115,6 @@ namespace BusProArchitecture.Reserva.Application.Services
             }, "Ocurrió un error grabando los datos.");
         }
     }
+
+    */
 }
