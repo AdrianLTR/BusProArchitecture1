@@ -1,0 +1,6 @@
+@BusProArchitecture.Reserva.Api_HostAddress = http://localhost:5216
+
+GET {{BusProArchitecture.Reserva.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

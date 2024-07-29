@@ -1,0 +1,31 @@
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\bin\Debug\net8.0\BusProArchitecture.Reserva.Application.deps.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\bin\Debug\net8.0\BusProArchitecture.Reserva.Application.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\bin\Debug\net8.0\BusProArchitecture.Reserva.Application.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.AssemblyInfoInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.AssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.csproj.CoreCompileInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Application.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\ref\BusProArchitecture.Reserva.Application.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\bin\Debug\net8.0\BusProArchitecture.Reserva.Application.deps.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\bin\Debug\net8.0\BusProArchitecture.Reserva.Application.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\bin\Debug\net8.0\BusProArchitecture.Reserva.Application.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.sourcelink.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Application.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\ref\BusProArchitecture.Reserva.Application.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.sourcelink.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Application.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Application\obj\Debug\net8.0\BusProArchitecture.Reserva.Application.pdb

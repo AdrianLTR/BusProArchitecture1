@@ -1,0 +1,35 @@
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.deps.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.AssemblyInfoInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.AssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.csproj.CoreCompileInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.aplication.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.aplication.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.deps.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.sourcelink.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.aplication.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.aplication.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.deps.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\bin\Debug\net8.0\BusProArchitecture.Usuario.aplication.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.sourcelink.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.aplication.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\BusProArchitecture.Usuario.aplication.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.aplication\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.aplication.dll

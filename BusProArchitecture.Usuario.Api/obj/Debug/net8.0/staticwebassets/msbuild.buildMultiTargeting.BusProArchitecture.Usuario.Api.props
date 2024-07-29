@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BusProArchitecture.Usuario.Api.props" />
+</Project>

@@ -1,0 +1,98 @@
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\appsettings.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.exe
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.deps.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.runtimeconfig.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.csproj.AssemblyReference.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.AssemblyInfoInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.AssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.csproj.CoreCompileInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.BusProArchitecture.Reserva.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BusProArchitecture.Reserva.Api.props
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BusProArchitecture.Reserva.Api.props
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BusProArchitecture.Reserva.Api.props
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\scopedcss\bundle\BusProArchitecture.Reserva.Api.styles.css
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProAr.E198AD55.Up2Date
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Api.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.genruntimeconfig.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\ref\BusProArchitecture.Reserva.Api.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.exe
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.deps.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.runtimeconfig.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.sourcelink.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.BusProArchitecture.Reserva.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BusProArchitecture.Reserva.Api.props
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BusProArchitecture.Reserva.Api.props
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BusProArchitecture.Reserva.Api.props
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\scopedcss\bundle\BusProArchitecture.Reserva.Api.styles.css
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProAr.E198AD55.Up2Date
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Api.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\ref\BusProArchitecture.Reserva.Api.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.exe
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.deps.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.runtimeconfig.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\BusProArchitecture.Reserva.Api.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.sourcelink.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.BusProArchitecture.Reserva.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BusProArchitecture.Reserva.Api.props
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BusProArchitecture.Reserva.Api.props
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BusProArchitecture.Reserva.Api.props
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\scopedcss\bundle\BusProArchitecture.Reserva.Api.styles.css
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProAr.E198AD55.Up2Date
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Api.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\BusProArchitecture.Reserva.Api.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Api\obj\Debug\net8.0\ref\BusProArchitecture.Reserva.Api.dll

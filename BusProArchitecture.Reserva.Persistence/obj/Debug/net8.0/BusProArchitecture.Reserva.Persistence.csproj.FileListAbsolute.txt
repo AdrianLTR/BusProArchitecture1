@@ -1,0 +1,35 @@
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\bin\Debug\net8.0\BusProArchitecture.Reserva.Persistence.deps.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\bin\Debug\net8.0\BusProArchitecture.Reserva.Persistence.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\bin\Debug\net8.0\BusProArchitecture.Reserva.Persistence.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\bin\Debug\net8.0\BusProArchitecture.common.Data.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\bin\Debug\net8.0\BusProArchitecture.Reserva.Domain.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\bin\Debug\net8.0\BusProArchitecture.Reserva.Domain.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\bin\Debug\net8.0\BusProArchitecture.common.Data.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.csproj.AssemblyReference.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.AssemblyInfoInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.AssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.csproj.CoreCompileInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProAr.31AEF7ED.Up2Date
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Persistence.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\ref\BusProArchitecture.Reserva.Persistence.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.sourcelink.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Persistence.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.sourcelink.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\refint\BusProArchitecture.Reserva.Persistence.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Reserva.Persistence\obj\Debug\net8.0\BusProArchitecture.Reserva.Persistence.pdb

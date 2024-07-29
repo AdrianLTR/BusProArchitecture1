@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\exception\\usuarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\exception\\usuarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\exceptions\\reservaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\exceptions\\reservaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF65E4B-DC52-4ECD-8C83-E651192B909C}|BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.common.data\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF65E4B-DC52-4ECD-8C83-E651192B909C}|BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj|solutionrelative:busproarchitecture.common.data\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0D51DE-1ED5-49B1-8803-30494DA799BE}|BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.domain\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0D51DE-1ED5-49B1-8803-30494DA799BE}|BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj|solutionrelative:busproarchitecture.reserva.domain\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0D51DE-1ED5-49B1-8803-30494DA799BE}|BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.domain\\interfaces\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0D51DE-1ED5-49B1-8803-30494DA799BE}|BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj|solutionrelative:busproarchitecture.reserva.domain\\interfaces\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\interfaces\\ireservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\interfaces\\ireservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CF126B-5281-42E6-81E2-F7DEF87EF3CF}|BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CF126B-5281-42E6-81E2-F7DEF87EF3CF}|BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj|solutionrelative:busproarchitecture.usuario.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CF126B-5281-42E6-81E2-F7DEF87EF3CF}|BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CF126B-5281-42E6-81E2-F7DEF87EF3CF}|BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj|solutionrelative:busproarchitecture.usuario.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\base\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\base\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuariobasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuariobasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuarioremovemodelc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuarioremovemodelc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuariosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuariosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuariogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuariogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservaremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservaremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\tareas prog\\busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:41:49.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:35:15.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioException.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:18:47.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservaException.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:46:37.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:17.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:20:26.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:38:10.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:26:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:00:02.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:45:46.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:11:02.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:21:48.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BoletoBusContext.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:03:20.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:19:11.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReservaSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:34:24.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservaUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:34:34.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BoletoBusContext.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:58:29.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReservaBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:31:29.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:36:10.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioRemoveModelc.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:41:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:41:32.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:41:28.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:41:17.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:37:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReservaRemoveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:33:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReservaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:33:30.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReservaGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Tareas prog\\BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:32:54.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

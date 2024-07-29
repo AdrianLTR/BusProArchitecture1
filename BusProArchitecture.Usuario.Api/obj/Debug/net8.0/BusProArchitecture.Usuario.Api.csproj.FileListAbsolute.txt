@@ -1,0 +1,98 @@
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\appsettings.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.exe
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.deps.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.runtimeconfig.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.csproj.AssemblyReference.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.AssemblyInfoInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.AssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.csproj.CoreCompileInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.BusProArchitecture.Usuario.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BusProArchitecture.Usuario.Api.props
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BusProArchitecture.Usuario.Api.props
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BusProArchitecture.Usuario.Api.props
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\scopedcss\bundle\BusProArchitecture.Usuario.Api.styles.css
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProAr.FE9B5006.Up2Date
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.Api.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.genruntimeconfig.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.Api.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.exe
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.deps.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.runtimeconfig.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.sourcelink.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.BusProArchitecture.Usuario.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BusProArchitecture.Usuario.Api.props
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BusProArchitecture.Usuario.Api.props
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BusProArchitecture.Usuario.Api.props
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\scopedcss\bundle\BusProArchitecture.Usuario.Api.styles.css
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProAr.FE9B5006.Up2Date
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.Api.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.Api.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.exe
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.deps.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.runtimeconfig.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\BusProArchitecture.Usuario.Api.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.sourcelink.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.BusProArchitecture.Usuario.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BusProArchitecture.Usuario.Api.props
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BusProArchitecture.Usuario.Api.props
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BusProArchitecture.Usuario.Api.props
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\scopedcss\bundle\BusProArchitecture.Usuario.Api.styles.css
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProAr.FE9B5006.Up2Date
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.Api.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\BusProArchitecture.Usuario.Api.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Api\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.Api.dll

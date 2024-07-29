@@ -1,0 +1,47 @@
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.AssemblyInfoInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.AssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.csproj.CoreCompileInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.deps.json
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.common.Data.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.common.Data.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.csproj.AssemblyReference.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProAr.DF664642.Up2Date
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.Domain.dll
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.pdb
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.Domain.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.deps.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.common.Data.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.common.Data.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.sourcelink.json
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProAr.DF664642.Up2Date
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.Domain.dll
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.pdb
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.Domain.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.deps.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.Usuario.Domain.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.common.Data.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\bin\Debug\net8.0\BusProArchitecture.common.Data.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.sourcelink.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProAr.DF664642.Up2Date
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\refint\BusProArchitecture.Usuario.Domain.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\BusProArchitecture.Usuario.Domain.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Domain\obj\Debug\net8.0\ref\BusProArchitecture.Usuario.Domain.dll

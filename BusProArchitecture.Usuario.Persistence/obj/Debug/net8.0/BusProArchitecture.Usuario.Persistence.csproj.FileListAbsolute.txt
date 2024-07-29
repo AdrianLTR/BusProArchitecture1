@@ -1,0 +1,17 @@
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.csproj.AssemblyReference.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.AssemblyInfoInputs.cache
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.AssemblyInfo.cs
+C:\pro\itla\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.sourcelink.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Usuario.Persistence\obj\Debug\net8.0\BusProArchitecture.Usuario.Persistence.sourcelink.json

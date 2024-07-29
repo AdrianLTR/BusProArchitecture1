@@ -1,0 +1,12 @@
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\bin\Debug\net8.0\BusProArchitecture.Infrastructure.deps.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\bin\Debug\net8.0\BusProArchitecture.Infrastructure.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\bin\Debug\net8.0\BusProArchitecture.Infrastructure.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\BusProArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\BusProArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\BusProArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\BusProArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\BusProArchitecture.Infrastructure.sourcelink.json
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\BusProArchitecture.Infrastructure.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\refint\BusProArchitecture.Infrastructure.dll
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\BusProArchitecture.Infrastructure.pdb
+C:\Users\Adrian\Desktop\Tareas prog\BusProArchitecture\BusProArchitecture\BusProArchitecture.Infrastructure\obj\Debug\net8.0\ref\BusProArchitecture.Infrastructure.dll
