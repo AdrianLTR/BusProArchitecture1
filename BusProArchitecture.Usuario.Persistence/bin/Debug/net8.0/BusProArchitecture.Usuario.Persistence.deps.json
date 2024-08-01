@@ -8,7 +8,10 @@
     ".NETCoreApp,Version=v8.0": {
       "BusProArchitecture.Usuario.Persistence/1.0.0": {
         "dependencies": {
-          "BusProArchitecture.Usuario.Domain": "1.0.0"
+          "BusProArchitecture.Infrastructure": "1.0.0",
+          "BusProArchitecture.Usuario.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
         },
         "runtime": {
           "BusProArchitecture.Usuario.Persistence.dll": {}
@@ -564,6 +567,11 @@
           "BusProArchitecture.common.Data.dll": {}
         }
       },
+      "BusProArchitecture.Infrastructure/1.0.0": {
+        "runtime": {
+          "BusProArchitecture.Infrastructure.dll": {}
+        }
+      },
       "BusProArchitecture.Usuario.Domain/1.0.0": {
         "dependencies": {
           "BusProArchitecture.common.Data": "1.0.0",
@@ -968,6 +976,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "BusProArchitecture.common.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusProArchitecture.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

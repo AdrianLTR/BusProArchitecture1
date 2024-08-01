@@ -2790,11 +2790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj",
       "projectName": "BusProArchitecture.Reserva.Persistence",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2811,8 +2811,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj"
+            "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj"
             }
           }
         }

@@ -7,7 +7,12 @@ using System.Threading.Tasks;
 
 namespace BusProArchitecture.common.Data.Repository
 {
-   public interface IBaseRepository<TEntity, TType> where TEntity : class
+    /// <summary>
+    /// Interfaces base para los repositorios de datos.
+    /// </summary>
+    /// <typeparam name="TEntity">Entidad con la que se va a trabajar</typeparam>
+    /// <typeparam name="TType">Id por donde se va a buscar</typeparam>
+    public interface IBaseRepository<TEntity, TType> where TEntity : class
     {
         void Save(TEntity entity);
         void Update(TEntity entity);

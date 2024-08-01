@@ -12,9 +12,15 @@ namespace BusProArchitecture.Usuario.Persistence.Repositories
 
 using BusProArchitecture.Usuario.Domain.Entities;
 
-    internal class UsuarioRepository : IUsuarioRepository
+
+    using Microsoft.Extensions.Logging;
+
+    public class UsuarioRepository : IUsuarioRepository
     {
         private readonly BoletoBusContext context;
+
+
+        private readonly ILogger<UsuarioRepository> logger;
 
         public UsuarioRepository(BoletoBusContext context)
         {

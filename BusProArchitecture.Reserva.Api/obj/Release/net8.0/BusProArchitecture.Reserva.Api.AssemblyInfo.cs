@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusProArchitecture.Reserva.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5389b364fc58e1f41e4cd9d4f727f40c7e25a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusProArchitecture.Reserva.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusProArchitecture.Reserva.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\BusProArchitecture.Infrastructure",
+    "\\BusProArchitecture.Reserva.Api",
+    "\\BusProArchitecture.Reserva.Api\\Controllers",
     "\\BusProArchitecture.Reserva.Application",
+    "\\BusProArchitecture.Reserva.Application\\Interfaces",
     "\\BusProArchitecture.Reserva.Application\\Services",
     "\\BusProArchitecture.Reserva.Persistence"
   ],

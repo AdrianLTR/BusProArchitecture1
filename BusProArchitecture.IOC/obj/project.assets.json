@@ -997,9 +997,24 @@
           "bin/placeholder/BusProArchitecture.common.Data.dll": {}
         }
       },
+      "BusProArchitecture.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BusProArchitecture.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusProArchitecture.Infrastructure.dll": {}
+        }
+      },
       "BusProArchitecture.Reserva.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusProArchitecture.Reserva.Domain": "1.0.0",
+          "BusProArchitecture.Usuario.Domain": "1.0.0",
+          "Microsoft.Extensions.Logging": "8.0.0"
+        },
         "compile": {
           "bin/placeholder/BusProArchitecture.Reserva.Application.dll": {}
         },
@@ -1035,6 +1050,51 @@
         },
         "runtime": {
           "bin/placeholder/BusProArchitecture.Reserva.Persistence.dll": {}
+        }
+      },
+      "BusProArchitecture.Usuario.aplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusProArchitecture.Usuario.Domain": "1.0.0",
+          "Microsoft.Extensions.Logging": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusProArchitecture.Usuario.aplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusProArchitecture.Usuario.aplication.dll": {}
+        }
+      },
+      "BusProArchitecture.Usuario.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusProArchitecture.common.Data": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
+        },
+        "compile": {
+          "bin/placeholder/BusProArchitecture.Usuario.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusProArchitecture.Usuario.Domain.dll": {}
+        }
+      },
+      "BusProArchitecture.Usuario.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusProArchitecture.Infrastructure": "1.0.0",
+          "BusProArchitecture.Usuario.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
+        },
+        "compile": {
+          "bin/placeholder/BusProArchitecture.Usuario.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusProArchitecture.Usuario.Persistence.dll": {}
         }
       }
     }
@@ -2796,6 +2856,11 @@
       "path": "../BusProArchitecture.common.Data/BusProArchitecture.common.Data.csproj",
       "msbuildProject": "../BusProArchitecture.common.Data/BusProArchitecture.common.Data.csproj"
     },
+    "BusProArchitecture.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../BusProArchitecture.Infrastructure/BusProArchitecture.Infrastructure.csproj",
+      "msbuildProject": "../BusProArchitecture.Infrastructure/BusProArchitecture.Infrastructure.csproj"
+    },
     "BusProArchitecture.Reserva.Application/1.0.0": {
       "type": "project",
       "path": "../BusProArchitecture.Reserva.Application/BusProArchitecture.Reserva.Application.csproj",
@@ -2810,12 +2875,29 @@
       "type": "project",
       "path": "../BusProArchitecture.Reserva.Persistence/BusProArchitecture.Reserva.Persistence.csproj",
       "msbuildProject": "../BusProArchitecture.Reserva.Persistence/BusProArchitecture.Reserva.Persistence.csproj"
+    },
+    "BusProArchitecture.Usuario.aplication/1.0.0": {
+      "type": "project",
+      "path": "../BusProArchitecture.Usuario.aplication/BusProArchitecture.Usuario.aplication.csproj",
+      "msbuildProject": "../BusProArchitecture.Usuario.aplication/BusProArchitecture.Usuario.aplication.csproj"
+    },
+    "BusProArchitecture.Usuario.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BusProArchitecture.Usuario.Domain/BusProArchitecture.Usuario.Domain.csproj",
+      "msbuildProject": "../BusProArchitecture.Usuario.Domain/BusProArchitecture.Usuario.Domain.csproj"
+    },
+    "BusProArchitecture.Usuario.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../BusProArchitecture.Usuario.Persistence/BusProArchitecture.Usuario.Persistence.csproj",
+      "msbuildProject": "../BusProArchitecture.Usuario.Persistence/BusProArchitecture.Usuario.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "BusProArchitecture.Reserva.Application >= 1.0.0",
       "BusProArchitecture.Reserva.Persistence >= 1.0.0",
+      "BusProArchitecture.Usuario.Persistence >= 1.0.0",
+      "BusProArchitecture.Usuario.aplication >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 8.0.0"
     ]
   },
@@ -2825,11 +2907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
       "projectName": "BusProArchitecture.IOC",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2846,11 +2928,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj"
+            "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj"
             },
-            "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj"
+            "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj"
+            },
+            "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj"
+            },
+            "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj"
             }
           }
         }

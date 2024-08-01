@@ -1,11 +1,14 @@
 ﻿
-using System;
 
-using BusProArchitecture.Usuario.Domain.Entities;
+
 using Microsoft.EntityFrameworkCore;
 
 namespace BusProArchitecture.Usuario.Persistence.Context
 {
+
+
+using BusProArchitecture.Usuario.Domain.Entities;
+
     public class BoletoBusContext : DbContext
     {
 
@@ -30,7 +33,7 @@ namespace BusProArchitecture.Usuario.Persistence.Context
         {
             base.OnModelCreating(modelBuilder);
           
-            modelBuilder.Entity<Domain.Entities.Usuario>().ToTable("Usuario");
+            modelBuilder.Entity<Usuario>().ToTable("Usuario");
         }
 
     }

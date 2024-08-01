@@ -16,7 +16,7 @@ using BusProArchitecture.Reserva.Domain.Entities;
         {
             if (reserva == null)
             {
-                throw new ReservaException($"El asiento con la id {idReserva} no está registrado.");
+                throw new ReservaException($"La Reserva con la id {idReserva} no está registrado.");
             }
         }
 

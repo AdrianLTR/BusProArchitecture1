@@ -1,154 +1,366 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\",
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Base\\NotificatioResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Infrastructure\\Base\\NotificatioResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.api\\busproarchitecture.reserva.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|solutionrelative:busproarchitecture.reserva.api\\busproarchitecture.reserva.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\base\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\base\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|solutionrelative:busproarchitecture.reserva.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Interfaces\\INotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Infrastructure\\Notification\\Interfaces\\INotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|solutionrelative:busproarchitecture.reserva.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.api\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|solutionrelative:busproarchitecture.reserva.api\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\controllers\\basecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\controllers\\basecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Interfaces\\ILoggerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Infrastructure\\Logger\\Interfaces\\ILoggerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\usuario\\usuariosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\usuario\\usuariosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\reserva\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\reserva\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\reserva\\reservagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\reserva\\reservagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\usuario\\usuariogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\usuario\\usuariogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Models\\ReservaBaseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Application\\Models\\ReservaBaseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\usuario\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\usuario\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\usuario\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\usuario\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\reserva\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\reserva\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\reserva\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\reserva\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8CF126B-5281-42E6-81E2-F7DEF87EF3CF}|BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CF126B-5281-42E6-81E2-F7DEF87EF3CF}|BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj|solutionrelative:busproarchitecture.usuario.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\base\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\base\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\base\\entitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\base\\entitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE0D51DE-1ED5-49B1-8803-30494DA799BE}|BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.domain\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0D51DE-1ED5-49B1-8803-30494DA799BE}|BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj|solutionrelative:busproarchitecture.reserva.domain\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\models\\base\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\models\\base\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E88A22C-E4C7-4387-8ED9-1236729234BE}|BusProArchitecture.Web\\BusProArchitecture.Web.csproj|solutionrelative:busproarchitecture.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|solutionrelative:busproarchitecture.usuario.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{720B9928-5755-47C7-94BE-F065EC2C43C0}|BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.ioc\\dependencies\\reservadependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720B9928-5755-47C7-94BE-F065EC2C43C0}|BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj|solutionrelative:busproarchitecture.ioc\\dependencies\\reservadependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|solutionrelative:busproarchitecture.usuario.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|solutionrelative:busproarchitecture.usuario.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\context\\boletobuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|solutionrelative:busproarchitecture.usuario.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337AF3A-781D-4950-AE05-53A1506053A7}|BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj|solutionrelative:busproarchitecture.reserva.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|solutionrelative:busproarchitecture.usuario.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0D51DE-1ED5-49B1-8803-30494DA799BE}|BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.domain\\interfaces\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0D51DE-1ED5-49B1-8803-30494DA799BE}|BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj|solutionrelative:busproarchitecture.reserva.domain\\interfaces\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\interfaces\\ireservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\interfaces\\ireservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.api\\busproarchitecture.usuario.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0492B397-2061-462E-A8EA-6D0E58B27FB0}|BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj|solutionrelative:busproarchitecture.usuario.api\\busproarchitecture.usuario.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF65E4B-DC52-4ECD-8C83-E651192B909C}|BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.common.data\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF65E4B-DC52-4ECD-8C83-E651192B909C}|BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj|solutionrelative:busproarchitecture.common.data\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\exceptions\\reservaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\exceptions\\reservaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\dtos\\usuariodtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\dtos\\usuariodtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\dtos\\reservadtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\dtos\\reservadtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\extensions\\usuariodtoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\extensions\\usuariodtoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\dtos\\usuariodtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\dtos\\usuariodtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\extensions\\reservadtoextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\extensions\\reservadtoextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\dtos\\reservadtoget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\dtos\\reservadtoget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\dtos\\reservadtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\dtos\\reservadtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\dtos\\usuariodtoget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\dtos\\usuariodtoget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\dtos\\usuariodtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\dtos\\usuariodtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\dtos\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\dtos\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CF126B-5281-42E6-81E2-F7DEF87EF3CF}|BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CF126B-5281-42E6-81E2-F7DEF87EF3CF}|BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj|solutionrelative:busproarchitecture.usuario.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\dtos\\reservadtogetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\dtos\\reservadtogetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\dtos\\dtobasereserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\dtos\\dtobasereserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\dtos\\reservadtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\dtos\\reservadtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.application\\busproarchitecture.reserva.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FE07E60-37F3-4612-A865-BB3C502405E8}|BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj|solutionrelative:busproarchitecture.reserva.application\\busproarchitecture.reserva.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF65E4B-DC52-4ECD-8C83-E651192B909C}|BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.common.data\\base\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF65E4B-DC52-4ECD-8C83-E651192B909C}|BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj|solutionrelative:busproarchitecture.common.data\\base\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\dtos\\dtobaseusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\dtos\\dtobaseusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\dtos\\usuariodtogetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\dtos\\usuariodtogetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.aplication\\dtos\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29749ED8-3B88-499F-AA92-C3EFF3573AE2}|BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj|solutionrelative:busproarchitecture.usuario.aplication\\dtos\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuariobasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuariobasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuariogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuariogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuarioremovemodelc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuarioremovemodelc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.infrastructure\\notification\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|solutionrelative:busproarchitecture.infrastructure\\notification\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.infrastructure\\notification\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|solutionrelative:busproarchitecture.infrastructure\\notification\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.infrastructure\\logger\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|solutionrelative:busproarchitecture.infrastructure\\logger\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.infrastructure\\base\\notificatioresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|solutionrelative:busproarchitecture.infrastructure\\base\\notificatioresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.infrastructure\\notification\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|solutionrelative:busproarchitecture.infrastructure\\notification\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservasavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.infrastructure\\logger\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45423399-06E4-445C-924C-9F0869D482F7}|BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj|solutionrelative:busproarchitecture.infrastructure\\logger\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservabasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservaupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.reserva.persistence\\models\\reservaremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC723A-1B05-4CCE-970E-B65B1ECBD56F}|BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj|solutionrelative:busproarchitecture.reserva.persistence\\models\\reservaremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\exception\\usuarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\exception\\usuarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|c:\\users\\adrian\\desktop\\practica busproarquitecture en uso\\prueba busproarchitecture\\busproarchitecture\\busproarchitecture.usuario.persistence\\model\\usuariosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DAA86-9E7A-4A59-8B53-A5B39DDB535F}|BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj|solutionrelative:busproarchitecture.usuario.persistence\\model\\usuariosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,7 +370,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -171,82 +383,1024 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BusProArchitecture.IOC.csproj",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
-              "RelativeDocumentMoniker": "BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
-              "RelativeToolTip": "BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-29T20:23:20.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservaDependency.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs",
-              "RelativeToolTip": "BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T20:14:52.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BusProArchitecture.Usuario.Persistence.csproj",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\appsettings.Development.json",
+              "RelativeToolTip": "BusProArchitecture.Web\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-29T20:08:19.454Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T03:23:02.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SmsService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs",
-              "RelativeToolTip": "BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:42:15.826Z"
+              "WhenOpened": "2024-08-01T03:10:50.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs",
-              "RelativeToolTip": "BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "BusProArchitecture.Reserva.Api",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Api\\BusProArchitecture.Reserva.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T03:13:48.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Program.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:41:26.185Z"
+              "WhenOpened": "2024-08-01T00:26:15.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\Program.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:24:53.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs",
-              "RelativeToolTip": "BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:39:06.231Z"
+              "WhenOpened": "2024-07-11T19:19:11.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T22:10:46.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseController1.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Controllers\\BaseController1.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Controllers\\BaseController1.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Controllers\\BaseController1.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Controllers\\BaseController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:01:03.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "BusProArchitecture.Web\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:59:02.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\appsettings.json",
+              "RelativeToolTip": "BusProArchitecture.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T00:32:51.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:17:07.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Api\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Api\\Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:38:12.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "BusProArchitecture.Web\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:58:53.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "BusProArchitecture.Web\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:58:08.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "BusProArchitecture.Web\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:54:35.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Reserva\\Details.cshtml",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Views\\Reserva\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Reserva\\Details.cshtml",
+              "RelativeToolTip": "BusProArchitecture.Web\\Views\\Reserva\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:52:07.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Reserva\\Create.cshtml",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Views\\Reserva\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Reserva\\Create.cshtml",
+              "RelativeToolTip": "BusProArchitecture.Web\\Views\\Reserva\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:47:20.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReservaSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Reserva\\ReservaSaveModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Reserva\\ReservaSaveModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Reserva\\ReservaSaveModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Reserva\\ReservaSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:38:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Usuario\\UsuarioSaveModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Usuario\\UsuarioSaveModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Usuario\\UsuarioSaveModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Usuario\\UsuarioSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:48:10.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Views\\Reserva\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Reserva\\Index.cshtml",
+              "RelativeToolTip": "BusProArchitecture.Web\\Views\\Reserva\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:52:58.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Reserva\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Views\\Reserva\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Views\\Reserva\\Edit.cshtml",
+              "RelativeToolTip": "BusProArchitecture.Web\\Views\\Reserva\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:52:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Usuario\\UsuarioGetModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Usuario\\UsuarioGetModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Usuario\\UsuarioGetModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Usuario\\UsuarioGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:44:18.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReservaGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Reserva\\ReservaGetModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Reserva\\ReservaGetModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Reserva\\ReservaGetModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Reserva\\ReservaGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:34:52.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Usuario\\UsuarioUpdateModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Usuario\\UsuarioUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Usuario\\UsuarioUpdateModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Usuario\\UsuarioUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:48:36.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Usuario\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Usuario\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Usuario\\UsuarioModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Usuario\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:44:33.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReservaUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Reserva\\ReservaUpdateModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Reserva\\ReservaUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Reserva\\ReservaUpdateModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Reserva\\ReservaUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:38:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReservaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Reserva\\ReservaModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Reserva\\ReservaModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Reserva\\ReservaModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Reserva\\ReservaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:36:26.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:11:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Base\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Base\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Base\\ErrorViewModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Base\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:33:57.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EntityModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Base\\EntityModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Base\\EntityModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Base\\EntityModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Base\\EntityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:33:53.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:00:02.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Base\\BaseResult.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Models\\Base\\BaseResult.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Models\\Base\\BaseResult.cs",
+              "RelativeToolTip": "BusProArchitecture.Web\\Models\\Base\\BaseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:33:30.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BusProArchitecture.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BusProArchitecture.Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T00:26:28.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\Program.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:42:38.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BoletoBusContext.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:03:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:17.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReservaDependency.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs",
+              "RelativeToolTip": "BusProArchitecture.IOC\\Dependencies\\ReservaDependency.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:14:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\appsettings.Development.json",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T18:56:17.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T21:12:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BoletoBusContext.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:58:29.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:20:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwDwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:23:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:10:21.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\appsettings.json",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T22:14:02.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:26:21.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:38:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:41:49.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BusProArchitecture.Usuario.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T21:14:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:45:46.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ReservaException.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:46:37.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UsuarioDtoRemove.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoRemove.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoRemove.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoRemove.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoRemove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:27:42.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:35:15.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ReservaDtoRemove.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoRemove.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoRemove.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoRemove.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoRemove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:23:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:39:22.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UsuarioDtoExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Extensions\\UsuarioDtoExtensions.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Extensions\\UsuarioDtoExtensions.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Extensions\\UsuarioDtoExtensions.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Extensions\\UsuarioDtoExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:27:46.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UsuarioDtoAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoAdd.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoAdd.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoAdd.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:27:33.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ReservaDtoExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Extensions\\ReservaDtoExtentions.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Extensions\\ReservaDtoExtentions.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Extensions\\ReservaDtoExtentions.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Extensions\\ReservaDtoExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:55:40.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ReservaDtoGet.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoGet.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoGet.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoGet.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:31:57.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ReservaDtoAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoAdd.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoAdd.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoAdd.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:24:16.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UsuarioDtoGet.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoGet.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoGet.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoGet.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:12:16.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UsuarioDtoUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoUpdate.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoUpdate.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoUpdate.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:27:21.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DtoBase.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\DtoBase.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Dtos\\DtoBase.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\DtoBase.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Dtos\\DtoBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:19:37.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:21:48.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ReservaDtoGetAll.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoGetAll.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoGetAll.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoGetAll.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoGetAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:22:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DtoBaseReserva.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\DtoBaseReserva.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Dtos\\DtoBaseReserva.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\DtoBaseReserva.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Dtos\\DtoBaseReserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:20:19.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ReservaDtoUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoUpdate.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoUpdate.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoUpdate.cs",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Dtos\\ReservaDtoUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:24:52.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BusProArchitecture.Reserva.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj",
+              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj",
+              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T22:35:00.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AuditEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Base\\AuditEntity.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.common.Data\\Base\\AuditEntity.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Base\\AuditEntity.cs",
+              "RelativeToolTip": "BusProArchitecture.common.Data\\Base\\AuditEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T01:35:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DtoBaseUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\DtoBaseUsuario.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Dtos\\DtoBaseUsuario.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\DtoBaseUsuario.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Dtos\\DtoBaseUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:25:58.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UsuarioDtoGetAll.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoGetAll.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoGetAll.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoGetAll.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Dtos\\UsuarioDtoGetAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:26:59.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DtoBase.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\DtoBase.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Dtos\\DtoBase.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Dtos\\DtoBase.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Dtos\\DtoBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:25:48.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UsuarioBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:36:10.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UsuarioGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:37:40.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:41:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UsuarioRemoveModelc.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
+              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:41:23.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs",
+              "RelativeToolTip": "BusProArchitecture.Infrastructure\\Notification\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:41:26.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs",
+              "RelativeToolTip": "BusProArchitecture.Infrastructure\\Notification\\Services\\SmsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:42:15.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs",
+              "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs",
+              "RelativeToolTip": "BusProArchitecture.Infrastructure\\Logger\\Services\\LoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:39:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
               "Title": "NotificatioResult.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Base\\NotificatioResult.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Base\\NotificatioResult.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Base\\NotificatioResult.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Base\\NotificatioResult.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Base\\NotificatioResult.cs",
               "RelativeToolTip": "BusProArchitecture.Infrastructure\\Base\\NotificatioResult.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,363 +1409,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReservaService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Services\\ReservaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:41:49.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 79,
               "Title": "INotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Interfaces\\INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Interfaces\\INotificationService.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Notification\\Interfaces\\INotificationService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Notification\\Interfaces\\INotificationService.cs",
               "RelativeToolTip": "BusProArchitecture.Infrastructure\\Notification\\Interfaces\\INotificationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:40:42.481Z"
+              "WhenOpened": "2024-07-29T19:40:42.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Domain\\Entities\\Reserva.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:00:02.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
-              "RelativeToolTip": "BusProArchitecture.common.Data\\Repository\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T19:45:46.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BoletoBusContext.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Context\\BoletoBusContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T16:58:29.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BoletoBusContext.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Context\\BoletoBusContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:03:20.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 80,
               "Title": "ReservaSaveModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
               "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaSaveModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:34:24.172Z"
+              "WhenOpened": "2024-07-16T17:34:24.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 81,
               "Title": "ILoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Interfaces\\ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Interfaces\\ILoggerService.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Infrastructure\\Logger\\Interfaces\\ILoggerService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Interfaces\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\Logger\\Interfaces\\ILoggerService.cs",
               "RelativeToolTip": "BusProArchitecture.Infrastructure\\Logger\\Interfaces\\ILoggerService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:38:12.496Z"
+              "WhenOpened": "2024-07-29T19:38:12.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IReservaService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Interfaces\\IReservaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T19:38:10.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 82,
               "Title": "ReservaGetModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
               "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaGetModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:32:54.57Z"
+              "WhenOpened": "2024-07-16T17:32:54.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 83,
               "Title": "ReservaBaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
               "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaBaseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:31:29.346Z"
+              "WhenOpened": "2024-07-16T17:31:29.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 84,
               "Title": "ReservaModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
               "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:33:30.002Z"
+              "WhenOpened": "2024-07-16T17:33:30.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 85,
               "Title": "ReservaUpdateModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
               "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaUpdateModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:34:34.998Z"
+              "WhenOpened": "2024-07-16T17:34:34.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ReservaException.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Exceptions\\ReservaException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:46:37.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ServiceResult.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Base\\ServiceResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T19:19:11.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 86,
               "Title": "ReservaRemoveModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
               "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\models\\ReservaRemoveModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:33:42.336Z"
+              "WhenOpened": "2024-07-16T17:33:42.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ReservaBaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Models\\ReservaBaseModel.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Application\\Models\\ReservaBaseModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\Models\\ReservaBaseModel.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Application\\Models\\ReservaBaseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T17:44:03.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ReservaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Persistence\\Repositories\\ReservaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:20:26.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T18:43:17.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 87,
               "Title": "UsuarioException.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
               "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Exception\\UsuarioException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:18:47.66Z"
+              "WhenOpened": "2024-07-16T19:18:47.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.aplication\\Interfaces\\IUsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:35:15.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IReservaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
-              "RelativeToolTip": "BusProArchitecture.Reserva.Domain\\Interfaces\\IReservaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T18:26:21.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Domain\\Entities\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:11:02.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Domain\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:21:48.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UsuarioBaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioBaseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:36:10.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UsuarioRemoveModelc.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioRemoveModelc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:41:23.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 88,
               "Title": "UsuarioUpdateModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
               "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioUpdateModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:41:32.641Z"
+              "WhenOpened": "2024-07-16T17:41:32.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 89,
               "Title": "UsuarioSaveModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
               "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
               "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioSaveModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:41:28.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "UsuarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:41:17.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "UsuarioGetModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
-              "RelativeDocumentMoniker": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
-              "RelativeToolTip": "BusProArchitecture.Usuario.Persistence\\Model\\UsuarioGetModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:37:40.022Z"
+              "WhenOpened": "2024-07-16T17:41:28.122Z",
+              "EditorCaption": ""
             }
           ]
         }

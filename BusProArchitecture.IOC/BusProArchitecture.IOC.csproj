@@ -13,6 +13,8 @@
   <ItemGroup>
     <ProjectReference Include="..\BusProArchitecture.Reserva.Application\BusProArchitecture.Reserva.Application.csproj" />
     <ProjectReference Include="..\BusProArchitecture.Reserva.Persistence\BusProArchitecture.Reserva.Persistence.csproj" />
+    <ProjectReference Include="..\BusProArchitecture.Usuario.aplication\BusProArchitecture.Usuario.aplication.csproj" />
+    <ProjectReference Include="..\BusProArchitecture.Usuario.Persistence\BusProArchitecture.Usuario.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

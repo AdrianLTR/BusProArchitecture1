@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj",
       "projectName": "BusProArchitecture.common.Data",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",

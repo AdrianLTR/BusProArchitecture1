@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj": {}
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj": {
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
-        "projectName": "BusProArchitecture.Usuario.Api",
-        "projectPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj",
+        "projectName": "BusProArchitecture.common.Data",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj",
         "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adrian\\Desktop\\Prueba repositorio\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\obj\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,7 +44,438 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj",
+        "projectName": "BusProArchitecture.Infrastructure",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
+        "projectName": "BusProArchitecture.IOC",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj"
+              },
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj"
+              },
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj"
+              },
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj",
+        "projectName": "BusProArchitecture.Reserva.Application",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\BusProArchitecture.Reserva.Application.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj"
+              },
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj",
+        "projectName": "BusProArchitecture.Reserva.Domain",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj",
+        "projectName": "BusProArchitecture.Reserva.Persistence",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\BusProArchitecture.Reserva.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Reserva.Domain\\BusProArchitecture.Reserva.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
+        "projectName": "BusProArchitecture.Usuario.Api",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\BusProArchitecture.Usuario.Api.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.IOC\\BusProArchitecture.IOC.csproj"
+              },
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -65,6 +496,227 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj",
+        "projectName": "BusProArchitecture.Usuario.aplication",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\BusProArchitecture.Usuario.aplication.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj",
+        "projectName": "BusProArchitecture.Usuario.Domain",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.common.Data\\BusProArchitecture.common.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
+        "projectName": "BusProArchitecture.Usuario.Persistence",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\BusProArchitecture.Usuario.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Infrastructure\\BusProArchitecture.Infrastructure.csproj"
+              },
+              "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adrian\\Desktop\\practica BusProArquitecture en uso\\Prueba BusProArchitecture\\BusProArchitecture\\BusProArchitecture.Usuario.Domain\\BusProArchitecture.Usuario.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

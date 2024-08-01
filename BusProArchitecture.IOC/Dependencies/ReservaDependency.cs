@@ -1,20 +1,28 @@
-﻿using Microsoft.EntityFrameworkCore.SqlServer.Update.Internal;
+﻿using BusProArchitecture.Reserva.Application.Services;
+using BusProArchitecture.Reserva.Domain.Interfaces;
+using BusProArchitecture.Reserva.Persistence.Repositories;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using BusProArchitecture.Reserva.Application.Interfaces;
+using BusProArchitecture.common.Data.Repository;
+using BusProArchitecture.Usuario.Domain.Interfaces;
+using BusProArchitecture.Usuario.Persistence.Repositories;
+using BusProArchitecture.Usuario.aplication.Interfaces;
+using BusProArchitecture.Usuario.aplication.Services;
+
 
 namespace BusProArchitecture.IOC.Dependencies
 {
    public static class ReservaDependency
     {
 
-        public static void addReservaDependecy (this IServiceCollection service )
+        public static void AddReservaDependecy (this IServiceCollection service )
         {
-          service.AddScoped<>
 
+            service.AddScoped<IReservaRepository, ReservaRepository>();
+            service.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+            service.AddTransient<IReservaService, ReservaService>();
+            service.AddTransient<IUsuarioService, UsuarioService>();
         }
 
     }

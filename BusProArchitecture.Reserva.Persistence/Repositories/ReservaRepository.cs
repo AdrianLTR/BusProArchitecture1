@@ -1,5 +1,5 @@
 ﻿
-using BusProArchitecture.common.Data.Repository;
+
 
 using BusProArchitecture.Reserva.Persistence.Exceptions;
 using BusProArchitecture.Reserva.Domain.Interfaces;
@@ -41,7 +41,7 @@ namespace BusProArchitecture.Reserva.Persistence.Repositories
             return context.Reservas.ToList();
         }
 
-        public List<Reserva> GetReservasByIdUsuario(int IdReserva)
+        public List<Reserva> GetReservasById(int IdReserva)
         {
             return context.Reservas.Where(a => a.IdReserva == IdReserva).ToList();
         }
@@ -70,6 +70,7 @@ namespace BusProArchitecture.Reserva.Persistence.Repositories
             existingReserva.IdReserva = entity.IdReserva;
             existingReserva.AsientosReservados = entity.AsientosReservados;
             existingReserva.MontoTotal = entity.MontoTotal;
+            existingReserva.FechaCreacion = entity.FechaCreacion;
 
             context.Reservas.Update(existingReserva);
             context.SaveChanges();

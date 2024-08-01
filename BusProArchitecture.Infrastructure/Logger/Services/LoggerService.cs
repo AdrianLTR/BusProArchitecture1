@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BusProArchitecture.Infrastructure.Logger.Services
 {
-    internal class LoggerService : ILoggerService
+    public class LoggerService : ILoggerService
     {
     }
 }
